@@ -1,0 +1,505 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue betwixt a horse of warre, and a mill-horse; wherein the content and safety of an humble and painfull life, is preferred above all the noyse, the tumults, and trophies of the warre. Full of harmelesse mirth, and variety.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81429</idno>
+            <idno type="STC">Wing D1347</idno>
+            <idno type="STC">Thomason E80_5</idno>
+            <idno type="STC">ESTC R4065</idno>
+            <idno type="EEBO-CITATION">99872589</idno>
+            <idno type="PROQUEST">99872589</idno>
+            <idno type="VID">125030</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81429)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125030)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E80[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue betwixt a horse of warre, and a mill-horse; wherein the content and safety of an humble and painfull life, is preferred above all the noyse, the tumults, and trophies of the warre. Full of harmelesse mirth, and variety.</title>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop, and published according to order,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "Jan: 2nd".</note>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125030:1"/>
+            <pb facs="tcp:125030:1" rendition="simple:additions"/>
+            <p>A DIALOGVE BETWIXT A HORSE of WARRE, and a MILL-HORSE; Wherein the content and ſafety of an humble and painfull life, is preferred above all the <hi>Noyſe,</hi> the <hi>Tumults,</hi> and <hi>Trophies</hi> of the <hi>Warre.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of a war-horse and a mill-horse</figDesc>
+            </figure>
+            <p>Full of harmeleſſe Mirth, and variety.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Bernard Alſop,</hi> And publiſhed according to Order, 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:125030:2"/>
+            <head>A diſcourſe between the Cavalliers Warre-Horſe, and the Country-mans Mill-Horſe.</head>
+            <sp>
+               <speaker>Cav. horſ.</speaker>
+               <l>
+                  <seg rend="decorInit">W</seg>Ell met old <hi>Mill-Horſe</hi> or indeed an Aſſe,</l>
+               <l>I muſt inſtruct thee before we doe paſſe</l>
+               <l>How to live bravely; look on me and view</l>
+               <l>My Bridle and my Saddle faire and new;</l>
+               <l>Warre doth exalt me, and by it I get</l>
+               <l>Honour, while that my picture is forth ſet</l>
+               <l>Cut out in Braſſe, while on my back I beare</l>
+               <l>Some Noble Earle or valiant Cavallier.</l>
+               <l>Come therefore to the Wars, and doe not ſtill</l>
+               <l>Subject thy ſelfe to beare Sacks to the Mill.</l>
+            </sp>
+            <sp>
+               <speaker>Mil-horſ.</speaker>
+               <l>Deſpiſe me not thou Cavalliers War-Horſe</l>
+               <l>For thouogh to live I take an idle courſe,</l>
+               <l>Yet for the common-wealth <hi>I</hi> alwayes ſtand,</l>
+               <l>And am imploy'd for it, though I'm nam'd</l>
+               <l>
+                  <hi>A Mill-Horſe, I</hi> am free and ſeem not under</l>
+               <l>Malignants that doe townes and houſes plunder,</l>
+               <l>Tranſported on thy back, while thou muſt be</l>
+               <l>Halfe guilty of their wrong, and injurie.</l>
+               <l>Done to their country, while without juſt cauſe,</l>
+               <l>Thou fighteſt for the King againſt the Lawes.</l>
+               <l>Againſt Religion, Parliament and all,</l>
+               <l>And leaſt the Pope and Biſhops downe ſhould fall.</l>
+               <l>Thou art expos'd to battle, but no thanks,</l>
+               <l>Thou haſt at all when thou doſt break the Ranks</l>
+               <l>Of our ſtout Muskettiers, whoſe bullets flye</l>
+               <l>In ſhowres, as in the fight at <hi>Newbery,</hi>
+               </l>
+               <l>And force thee to retreat with wounds, or lame,</l>
+               <l>To this the glory of thy halting fame.</l>
+               <l>Whereof thou doſt ſo bragge? beſide thy fault</l>
+               <l>Of fighting for them who have alwayes fought,</l>
+               <l>Againſt the common-wealth, is ſuch a ſin,</l>
+               <l>That doth ſtick cloſer to thee then thy skin.</l>
+               <l>What though upon my back <hi>I</hi> carry ſacks?</l>
+               <l>Thy meat is plunderd out of barnes and ſtacks;</l>
+               <l>While thou doſt feed on ſtolen Oates and Hay</l>
+               <l>The <hi>wronged Farmers</hi> curſe the ſtrength away</l>
+               <l>Of all thy Diet, often wiſhing that</l>
+               <l>Diſeaſes may conſume thy ill-got fat,</l>
+               <pb facs="tcp:125030:2"/>
+               <l>Therefore recant and never more appeare</l>
+               <l>In field a Champion for the Cavallier;</l>
+               <l>Let not his ſpurre nor falſe fame prick thee on</l>
+               <l>To fight in unjuſt warres as thou haſt done<g ref="char:punc">▪</g>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Cav. horſ.</speaker>
+               <l>Fame is not that <hi>I</hi> aime at, but the knowne</l>
+               <l>Right of the King, the trumpet that is blowne</l>
+               <l>Unto the Battell doth not give me more</l>
+               <l>Courage, then what <hi>I</hi> had in him before,</l>
+               <l>As if we did partake of more then ſenſe</l>
+               <l>And farre exceeded mans intelligence,</l>
+               <l>In ſtooping unto Kings, and doe prove thus</l>
+               <l>Our ſelves deſcended from <hi>Bucephalus,</hi>
+               </l>
+               <l>That Horſe who did no loyall duty lack</l>
+               <l>But kneeling downe received on his back</l>
+               <l>Great <hi>Alexander,</hi> while men kick and fling</l>
+               <l>Againſt the power of ſo good a King</l>
+               <l>As time hath bleſt us with, O let this force</l>
+               <l>A change in thee who art a dull <hi>Mill-horſe.</hi>
+               </l>
+               <l>Thou art no Papiſt being without merit,</l>
+               <l>Nor zealous Browniſt, for thou doſt want ſpirit.</l>
+               <l>But with a Halter ty'd to block or pale,</l>
+               <l>Doſt pennance, while thy maſter drinks his Ale</l>
+               <l>In ſome poore Village; ſuch a poore thing art thou</l>
+               <l>Who Gentry ſcorne, beare till thy ribs doe bow</l>
+               <l>Burthens of corne or meale, while that Kings are</l>
+               <l>My Royall Maſters both in Peace and Warre.</l>
+            </sp>
+            <sp>
+               <speaker>Mil-horſ.</speaker>
+               <l>Boaſt not of happy fortune, ſince time brings</l>
+               <l>A change to ſetled States and greateſt Kings,</l>
+               <l>England was happy; peace and plenty too</l>
+               <l>Did make their rich abode here, but now view</l>
+               <l>The alteration, Warre hath brought in woe,</l>
+               <l>And ſad deſtruction doth this land o'reflow;</l>
+               <l>Now thou art proud, but if this warre in peace</l>
+               <l>Should end thy high ambition would then ceaſe;</l>
+               <l>Thy ſtrength and courage would find no regard,</l>
+               <l>Thy plundering ſervice ſhould get no reward,</l>
+               <l>Although in warre thou trample downe and kill</l>
+               <l>Thy foe, in age thou ſhalt beare ſacks to Mill,</l>
+               <l>As <hi>I</hi> doe now, and when thy skinne is grizzle</l>
+               <l>Groan underneath thy burthen, fart, and fizzle</l>
+               <pb facs="tcp:125030:3"/>
+               <l>Like an old horſe, a ſouldier of the Kings,</l>
+               <l>"Ill imploy'd valour ſad repentance brings,</l>
+               <l>When thou art lame, and wounded in a fight</l>
+               <l>Not knowing whether thou doſt wrong or right,</l>
+               <l>Or what is the true ground of this ſad warre</l>
+               <l>Where King and ſubjects both ingaged are;</l>
+               <l>Both doe pretend the juſtneſſe of their cauſe.</l>
+               <l>One for Religion, Liberty, and Lawes;</l>
+               <l>Doth ſtand, while that the King doth ſtrive again</l>
+               <l>His Right and due Prerogative to maintaine;</l>
+               <l>The King keeps cloſe to this, while ſubjects be</l>
+               <l>Growne mad to eclipſe the ſonne of Majeſtie</l>
+               <l>By enterpoſing differences; how canſt thou judge</l>
+               <l>Where the fault is? both at each other grudge,</l>
+               <l>I know that this diſcourſe is farre too high</l>
+               <l>For us, yet now to talke of Majeſty;</l>
+               <l>In boldeſt manner is a common thing</l>
+               <l>While every cobler will condemn a King,</l>
+               <l>And be ſo politick in their diſcourſe,</l>
+               <l>Yet know no more then I a poore <hi>Mill-horſe;</hi>
+               </l>
+               <l>Who for the common-wealth doe ſtand and goe,</l>
+               <l>VVould every commonwealths-man did doe ſo.</l>
+            </sp>
+            <sp>
+               <speaker>Cav horſ.</speaker>
+               <l>
+                  <hi>Mill-horſe</hi> in this thy ſpace and ſpeech agree.</l>
+               <l>Both wanting ſpirit dull and tedious bee;</l>
+               <l>The King and commonwealth are vexed theames</l>
+               <l>Writ on by many; prethee think on Beanes</l>
+               <l>And Oates well ground, what need haſt thou to care</l>
+               <l>How the deplored commonwealth doth fare;</l>
+               <l>For policy this rule in mind doth keep,</l>
+               <l>"Laugh when thou haſt made others grieve and weep,</l>
+               <l>What care we how the State of things doe goe?</l>
+               <l>"While thou art well, let others feele the woe.</l>
+               <l>If <hi>I</hi> have ſtore of provender <hi>I</hi> care not,</l>
+               <l>Let Cavalliers ſtill plunder on and ſpare not,</l>
+               <l>When <hi>Ockingham</hi> was burned <hi>I</hi> ſtood by</l>
+               <l>And like rich widdowes wept at ne're an eye;</l>
+               <l>When the town burnt a fellow ſaid in leather</l>
+               <l>"He lov'd to ſee a good fire in cold weather;</l>
+               <l>And with the ſimple clowne <hi>I</hi> doe ſay ſtill</l>
+               <l>"If <hi>I</hi> doe well <hi>I</hi> care not who doth ill;</l>
+               <pb facs="tcp:125030:3"/>
+               <l>For with the Cavalliers <hi>I</hi> keep one courſe,</l>
+               <l>And have no more Religion then a Horſe.</l>
+               <l>
+                  <hi>I</hi> not for the Liberty not Lawes.</l>
+               <l>Not priviledge of Subjects, nor the cauſe,</l>
+               <l>Let us ſtand well affected to good Oates,</l>
+               <l>While that the ſhip of State and Kingdome floates</l>
+               <l>On bloody waves, the ſtaved rack ſhall be</l>
+               <l>Crammed with hey, a commonwealth to me.</l>
+            </sp>
+            <sp>
+               <speaker>Mill-horſ.</speaker>
+               <l>Alaſſe <hi>I</hi> pitty thee thou great war-horſe</l>
+               <l>VVho art like Cavalliers without remorſe:</l>
+               <l>The ſad affliction which the Kingdome feeles,</l>
+               <l>Regarding not, thou caſts it at thy heeles;</l>
+               <l>And ſo doſt prove that horſes have no braine,</l>
+               <l>Or if they have they little wit containe.</l>
+               <l>Vnto the Kingdomes tale thy prick-eares lend</l>
+               <l>VVhoſe griefe <hi>I</hi> will deſcribe, and right defend.</l>
+            </sp>
+            <sp>
+               <speaker>Cav-horſ.</speaker>
+               <l>Thou defend right, thy right to the high way</l>
+               <l>Is loſt, as ſure as thou doſt live by hey,</l>
+               <l>In telling of a tale without all doubt</l>
+               <l>Thou needs muſt ſtumble, and wilt ſoon run out</l>
+               <l>Of breath and ſenſe, good <hi>Mill-horſe,</hi> therefore prethee</l>
+               <l>Leave tales, there are too many tales already,</l>
+               <l>That weekly flye with more lies without faile</l>
+               <l>Then there be haires within a horſes taile;</l>
+               <l>And if the writers angry be <hi>I</hi> wiſh,</l>
+               <l>You would the Cavalliers horſe arſe both kiſſe,</l>
+               <l>Not as the Miller thy back doth kiſſe with whip,</l>
+               <l>But as a Lover doth his Miſtreſſe lip;</l>
+               <l>For know the Cavalliers brave-warlick horſe</l>
+               <l>Scornes vulgar Jades, and bids them kiſſe his arſe.</l>
+            </sp>
+            <sp>
+               <speaker>Mill-horſ.</speaker>
+               <l>Thou pamperd Jade that liv'ſt by plunderd oates,</l>
+               <l>My skin's as good as thine and worth ten groates,</l>
+               <l>Though ſlow of foot, <hi>I</hi> come of a good kind,</l>
+               <l>Of Racers, gotten by the boiſtrous wind</l>
+               <l>VVhen the Mare turnd her back-ſide in the mouth</l>
+               <l>Of <hi>Boreas,</hi> being Northerne breed not South,</l>
+               <l>The <hi>Millers-horſe</hi> before the warres began,</l>
+               <l>VVould take the way of Lord or Gentleman;</l>
+               <l>And when Peace ſhall Malignants keep in aw,</l>
+               <l>
+                  <hi>I</hi> ſhall ſee thee in Coach or Dung-cart draw,</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:125030:4"/>
+               <speaker>Cav. horſ.</speaker>
+               <l>I ſcorne thy motion, after this ſad Warre,</l>
+               <l>Perhaps I may draw in ſome Coach or Carre;</l>
+               <l>And which doth grieve me, Cavaliers moſt high-born</l>
+               <l>I may be forced to draw on to <hi>Tiburne:</hi>
+               </l>
+               <l>In time of Peace my blood ſhall not be ſpilt,</l>
+               <l>But like to <hi>Noble Beere,</hi> ſhall run <hi>at Tilt.</hi>
+               </l>
+               <l>In Peace I ſerve for <hi>Triumphs,</hi> more then that</l>
+               <l>I ſhall be made a <hi>Biſhop,</hi> and grow fat,</l>
+               <l>As <hi>Archey</hi> ſaid, <hi>when Biſhops rul'd 'twas worſe,</hi>
+               </l>
+               <l>
+                  <hi>That had no more Religion then a Horſe.</hi>
+               </l>
+               <l>But thou ſhalt weare thy ſelfe out, and be ſtill</l>
+               <l>An everlaſting Drudge unto ſome Mill.</l>
+            </sp>
+            <sp>
+               <speaker>Mil-horſ.</speaker>
+               <l>No matter, <hi>I</hi> wil ſpend my life and health,</l>
+               <l>Both for my Country and the common-wealth,</l>
+               <l>And it is <hi>Prince-like</hi> (if well underſtood)</l>
+               <l>
+                  <hi>To be ill-ſpoken off for doing good,</hi>
+               </l>
+               <l>And if a horſe may ſhew his good intent,</l>
+               <l>Some Aſſes raile thus at the Parliament.</l>
+               <l>Scorn is a burthen laid on good men ſtill,</l>
+               <l>Which they muſt beare, as <hi>I</hi> do Sackes to Mill:</l>
+               <l>But thou delighteſt to hear trumpets rattle,</l>
+               <l>An <hi>animall</hi> ruſhing into lawleſſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> battle;</l>
+               <l>If thou couldſt think of thoſe are ſlain and dead,</l>
+               <l>Thy skin would bluſh, and all thy hayres look red</l>
+               <l>With blood of men, but <hi>I</hi> do wiſh for peace,</l>
+               <l>On that condition Dogs might eate thy fleſh.</l>
+               <l>Then ſhould the Mil-horſe meal both fetch and bring,</l>
+               <l>Towns brew good Ale, and drink healths to the King.</l>
+            </sp>
+            <sp>
+               <speaker>Cav. h<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſ.</speaker>
+               <l>Baſe Mill-horſe have I broke my bridle, where</l>
+               <l>I was tyed by my Maſter <hi>Cavaliere</hi>
+               </l>
+               <l>To come and pratlle with thee, and doeſt thou</l>
+               <l>Wiſh Dogs might eat my fleſh? I ſcorn thee now.</l>
+               <l>My angry ſenſe a great deſire now feeles,</l>
+               <l>To kick thee into manners with my heeles.</l>
+               <l>But for the preſent I will curb my will.</l>
+               <l>If thou wilt tell me ſome newes from the mill.</l>
+            </sp>
+            <sp>
+               <speaker>Mil-horſ.</speaker>
+               <l>If thou wilt tell me newes from Camp &amp; Court,</l>
+               <l>Ile tell thée Mill-newes that ſhall make thée ſport.</l>
+            </sp>
+            <sp>
+               <speaker>Cav. horſ.</speaker>
+               <l>If Country news thou wilt relate and ſhew me,</l>
+               <l>Halters of love ſhall binde me faſt unto thee,</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:125030:4"/>
+               <speaker>Mil-horſ.</speaker>
+               <l>It chanced that <hi>I</hi> carried a young Maid</l>
+               <l>To Mill, and was to ſtumble much afraid,</l>
+               <l>She rid in handſome manner on my back,</l>
+               <l>And ſéem'd more heavie then the long meale ſacke</l>
+               <l>On which ſhe ſate, when ſhe alighted, <hi>I</hi>
+               </l>
+               <l>Perceiv'd her belly was grown plump and high;</l>
+               <l>
+                  <hi>I</hi> carried many others, and all were</l>
+               <l>Gotten with childe ſtill by the <hi>Cavaleer,</hi>
+               </l>
+               <l>So that this newes for truth <hi>I</hi> may ſet downe,</l>
+               <l>There's ſcarce a Mayd left in a Market towne;</l>
+               <l>An woman old with Mufler on her chin,</l>
+               <l>Did tell the Miller ſhe had plundered béen</l>
+               <l>Thrice by the Cavaliers, and they had taken,</l>
+               <l>Her featherb<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds, her braſſe, and all her bacon,</l>
+               <l>And eke her daughter <hi>Bridget</hi> that ſhould wed</l>
+               <l>
+                  <hi>Clods</hi> ſonne, was plundered of her maidenhead,</l>
+               <l>Beſides <hi>I</hi> heare your Cavaliers doe ſtill,</l>
+               <l>Drinke ſacke like water that runs from the Mill;</l>
+               <l>We heare of Iriſh Rebels comming over,</l>
+               <l>Which was a plot that I dare not diſcover.</l>
+               <l>And that the malignant Army of the King,</l>
+               <l>Into this Land blinde Popery would bring.</l>
+            </sp>
+            <sp>
+               <speaker>Cav. horſ.</speaker>
+               <l>Peace, peace, I ſee thou doſt know nothing now,</l>
+               <l>Thy fleering jeſts I cannot well allow;</l>
+               <l>And there are <hi>Mercuries</hi> abroad that will,</l>
+               <l>Tell better news then a horſe of the Mill;</l>
+               <l>But <hi>I</hi> will anſwer thee, and tell thee thus,</l>
+               <l>Thou lyeſt as bad as ere did <hi>Aulicus.</hi>
+               </l>
+               <l>Who though he writ Court-newes ile tell you what,</l>
+               <l>Heele lye as faſt as both of us can trot.</l>
+               <l>You tell of Maydens that have been beguild,</l>
+               <l>And by the Cavaleers are got with childe,</l>
+               <l>And haſt not thou when thou waſt fat and idle,</l>
+               <l>Often times broke thy halter and thy bridle,</l>
+               <l>And rambled over hedge and ditch to come,</l>
+               <l>Unto ſome Mare, whom thou haſt quickly wonne</l>
+               <l>To thy deſire, and leapt her in the place,</l>
+               <l>Of dull Mill-horſes to beget a race;</l>
+               <l>While that the Cavaliers when they do fall</l>
+               <l>To worke, will get a race of ſouldiers all.</l>
+               <l>It had been newes whereat <hi>I</hi> would have ſmilde,</l>
+               <pb facs="tcp:125030:5"/>
+               <l>If the maids had <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot the Cavalliers with childe.</l>
+            </sp>
+            <sp>
+               <speaker>Mill-horſ.</speaker>
+               <l>
+                  <hi>I</hi> ramble over hedge, thou meanſt indeed</l>
+               <l>The Cavalliers, who were compell'd with ſpead</l>
+               <l>Both over dedge and ditch away to flye,</l>
+               <l>VVhen they were lately beat at <hi>Newbery.</hi>
+               </l>
+               <l>The Proverb to be true is prov'd by thee,</l>
+               <l>That ſervants like unto their maſters bee;</l>
+               <l>Thoſe plundering devills on thy back doe ride.</l>
+               <l>Have fill'd thee with a pamper'd ſpirit of pride,</l>
+               <l>And thou haſt eaten ſo much Popiſh Oates,</l>
+               <l>That in thy belly thou haſt got three Popes;</l>
+               <l>Thy great Grand-father of that race did come</l>
+               <l>That bore Pope Joane in triumph thorough Rome</l>
+               <l>
+                  <hi>I</hi> beare to Mill of corne a plump long ſack,</l>
+               <l>Thou carrieſt a great <hi>Pluto</hi> on thy back.</l>
+               <l>Or Cavallier, and who can then abide thee,</l>
+               <l>VVhen that malignant Fooles and Knaves doe ride thee.</l>
+               <l>From town to town, and plunder where they come,</l>
+               <l>The country is by Cavalliers undone.</l>
+               <l>And theſe thy maſters are, who fight and kill</l>
+               <l>And ſeek the blood of Proteſtants to ſpill;</l>
+               <l>For thus the newes abroad doth alwayes runne,</l>
+               <l>That the Kings forces are in horſe moſt ſtrong.</l>
+               <l>VVhereby it doth appeare the VVar-horſe are</l>
+               <l>Guilty of blood-ſhed, in this cruell war;</l>
+               <l>And yet the Cavalliers horſe as <hi>I</hi> heare</l>
+               <l>At <hi>Kenton field</hi> beſhit themſelves for feare.</l>
+               <l>And the Cavalliers being kill'd, they run about</l>
+               <l>The field to ſeek another maſter out,</l>
+               <l>Therefore love war, and have of wounds thy fill.</l>
+               <l>VVhile I in Peace doe walk unto the Mill;</l>
+               <l>I will be alwaies true unto my ſelfe,</l>
+               <l>And love the Kingdome and the Commonwealth.</l>
+            </sp>
+            <sp>
+               <speaker>Cav. horſ.</speaker>
+               <l>Mill-horſe, becauſe thou ſhew'ſt thy railing wits,</l>
+               <l>Ile give thee a round anſwer with ſome kicks,</l>
+               <l>Which Ile beſtow upon thee, but I'me undone,</l>
+               <l>Yonder my maſter Cavallier doth come</l>
+               <l>To fetch me back, and Yonder too I ſee</l>
+               <l>The Miller comming for to take up thee;</l>
+               <l>If thou lik'ſt not my diſcourſe very well,</l>
+               <l>
+                  <hi>Mill-horſe</hi> take up my taile, and ſo farwell.</l>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
